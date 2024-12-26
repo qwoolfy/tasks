@@ -1,8 +1,0 @@
-def change(list):
-    first=list.pop()
-    last=list.pop (0)
-    list.append(last)
-    list.insert(0, first)
-    return list
-print (change (['к', 'п', 'и', 'с', 'о', 'с']))
-print (change ([1, 2, 3]))

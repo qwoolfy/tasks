@@ -1,3 +1,0 @@
-def useless(lst):
-    return max(lst) / len(lst)
-print(useless ([2,125,3,4,62]))

@@ -1,3 +1,0 @@
-def to_list(*args):
-    return list(args)
-print(to_list(4, 22,7,5,4,1,9))
